@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "apresa74",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29107146?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "apresa74",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-17T16:11:37.447Z",
-    "updated_at": "2025-10-17T16:11:37.447Z"
-  }
+    "updated_at": "2025-10-17T16:11:37.447Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "d81a8139-fdb7-4bed-9889-532f47e2e427": {
+      "content": [],
+      "created_at": "2025-10-17T16:11:37.466Z",
+      "created_by": "apresa74",
+      "title": "harguindeguy_taller",
+      "updated_at": "2025-10-17T16:11:37.466Z",
+      "updated_by": "apresa74",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d81a8139-fdb7-4bed-9889-532f47e2e427"
+  ]
 }
