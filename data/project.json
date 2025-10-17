@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "apresa74",
+    "is_private": false,
+    "title": "harguindeguy_taller",
+    "description": "Los fragmentos pertenecen a una declaración judicial del general Albano Eduardo Harguindeguy, ministro del Interior durante la dictadura argentina (1976–1981), en el juicio a las juntas militares. En ellos se describen las funciones del Ministerio del Interior respecto a las detenciones, traslados y registros de personas puestas a disposición del Poder Ejecutivo, así como la creación de comisiones y archivos sobre desaparecidos. El testimonio revela la burocratización de la represión estatal: fichas, decretos, coordinación entre fuerzas armadas y civiles. También aparecen reacciones institucionales ante atentados, hallazgos de cadáveres y reclamos de familiares, evidenciando la gestión administrativa del terror.",
+    "language": "es",
+    "slug": "harguindeguy1",
+    "creator": "apresa74",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-17T16:11:37.447Z",
+    "updated_at": "2025-10-17T16:11:37.447Z"
   }
 }
